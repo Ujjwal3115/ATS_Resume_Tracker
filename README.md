@@ -88,8 +88,3 @@
 ## Contributing
 We welcome contributions! If you have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. (You should create a LICENSE file if you don't have one.)
-
-## Contact
-Your Name - [Your LinkedIn/GitHub Profile/Email]
