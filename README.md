@@ -12,11 +12,11 @@
 - [Technologies Used](#technologies-used)
 - [Setup Google API Key](#setup-google-api-key)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## About
-[Choose one of the detailed descriptions above, or combine elements. This section explains what your project is and why it's useful.]
+The ATS Resume Classifier is an intelligent web application designed to streamline the hiring process by leveraging Google's Generative AI. This tool allows HR professionals and job seekers to quickly analyze resumes against specific job descriptions for various tech roles, including Data Science, Full Stack Development, Web Development, Big Data Engineering, DevOps, and Data Analytics.
+
+By automating the initial screening process, this classifier helps identify the most suitable candidates, provides insights for skill development, and offers a precise percentage match, mimicking the functionality of an Applicant Tracking System (ATS).
 
 ## Features
 * Professional HR evaluation of resume vs. job description.
